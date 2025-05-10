@@ -1,0 +1,12 @@
+[
+  {
+    "action": "remove",
+    "files": [
+      "apps",
+      "configs",
+      ".github",
+      "CONTRIBUTING.md",
+      "README.md"
+    ]
+  }
+]
